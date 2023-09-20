@@ -4,6 +4,8 @@ En este laboratorio, analizaremos un conjunto de datos que contiene información
 ventas mensuales de productos en línea. Utilizaremos herramientas de análisis de datos y
 visualización para responder preguntas clave sobre el desempeño de ventas.
 
+Grupo nº 7 conformado por: **Cristian Lich, Gerónimo Sanchez y Martín Montaña**
+
 ## Se proporciona un conjunto de archivos CSV, cada uno correspondiente a un mes específico de ventas
 
 ## Preguntas a responder en el análisis
